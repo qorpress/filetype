@@ -1,3 +1,3 @@
-module github.com/h2non/filetype
+module github.com/qorpress/filetype
 
-go 1.13
+go 1.14

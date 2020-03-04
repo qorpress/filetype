@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/h2non/filetype/matchers"
-	"github.com/h2non/filetype/types"
+	"github.com/qorpress/filetype/matchers"
+	"github.com/qorpress/filetype/types"
 )
 
 func TestMatch(t *testing.T) {
